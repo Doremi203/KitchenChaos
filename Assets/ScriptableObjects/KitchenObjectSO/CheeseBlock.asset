@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a3ea112ef4e43528321df1be3181737, type: 3}
+  m_Name: CheeseBlock
+  m_EditorClassIdentifier: 
+  <Prefab>k__BackingField: {fileID: 5452224274789117384, guid: bbb92556b71a34537b55d2e17ca21942,
+    type: 3}
+  <Sprite>k__BackingField: {fileID: 21300000, guid: da2d04fe27b94e34ea0b624569b48a6f,
+    type: 3}
+  <ObjectName>k__BackingField: Cheese Block
